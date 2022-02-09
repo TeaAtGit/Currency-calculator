@@ -1,0 +1,15 @@
+{
+  "podaciHNB": [
+    {
+      "Broj tečajnice": "6",
+      "Datum primjene": "11.01.2022",
+      "Država": "EMU",
+      "Šifra valute": "978",
+      "Valuta": "EUR",
+      "Jedinica": 1,
+      "Kupovni za devize": "7,497554",
+      "Srednji za devize": "7,520114",
+      "Prodajni za devize": "7,542674"
+    }
+  ]
+}
